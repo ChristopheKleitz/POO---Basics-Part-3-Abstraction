@@ -4,6 +4,8 @@ require 'highway.php';
 require 'motorway.php';
 require 'residentialway.php';
 require 'pedestrianway.php';
+require 'bicycle.php';
+require 'skateboard.php';
 
 
 
